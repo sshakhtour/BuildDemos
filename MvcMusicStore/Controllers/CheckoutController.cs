@@ -11,7 +11,7 @@ namespace MvcMusicStore.Controllers
         MusicStoreEntities storeDB = new MusicStoreEntities();
         const string PromoCode = "FREE";
         // trigger a change on Github.com
-        //
+        // another trigger a change on GitHub
         // GET: /Checkout/AddressAndPayment
 
         public ActionResult AddressAndPayment()
